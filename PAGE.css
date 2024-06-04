@@ -6,6 +6,7 @@
     float: left;
     width: 100%;
     
+    
 }
 .page{
     padding: 0%;
@@ -77,6 +78,8 @@
     padding: 0%;
     margin: 0%;
     float: left;
+    float: right;
+    
 }
 .mainface2{
     
@@ -112,17 +115,64 @@
     float: left;
 }
 #select1,#select2,#select3{
-    width: 50px;
+    width: 60px;
     
 }
 #select2,#select3{
     margin-left: 20px;
-}.input2{
+}
+#firstname{
+    width: 33%;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+#lastname{
+    width: 25%;
+    border-radius: 5px;
+    padding: 10px;
+}
+#input2{
+    width: 33%;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#input3{
+    width: 33%;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.selectgender1,.selectgender2{
+    float: left;
     margin-top: 15px;
 }
-.input3{
+#createaccount{
+    float: left;
+    margin-top: 12px;
+    background-color: green;
+    width: 20%;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
+
+.select{
+    float: left;
+    
+}
+.lorem{
+    float: left;
     margin-top: 15px;
 }
 .selectbirth{
     margin-top: 15px;
+}
+#footer{
+    
+    float: right;
+}
+.down{
+    margin-top: 49.8%;
 }
