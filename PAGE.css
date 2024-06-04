@@ -1,0 +1,128 @@
+.header{
+    background:#3b5998;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    height: 80px;
+    float: left;
+    width: 100%;
+    
+}
+.page{
+    padding: 0%;
+    margin: 0%;
+}
+#one
+{
+    font-family: tahoma, verdana, arial, sans-serif;
+    color: white;
+    font-size: 38px;
+    margin-left: 20%;
+
+}
+.two{
+    /* padding-top: 10px; */
+    float: left;
+    width: 50%;
+    /* background: red; */
+}
+.email{
+    float: left;
+    
+    /* background: lightblue; */
+    width: 25%;
+}
+.password{
+   
+    /* background: green; */
+    width: 25%;
+    float: left;
+    
+    margin-left: 20px;
+   
+
+}
+#word{
+    font-size: small;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    
+    
+}
+.login{
+    
+   
+    /* background: yellow; */
+    width: 50%;
+    float: left;
+    
+    
+}
+#mail-phone{
+    font-size: small;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+     /* padding-bottom: 50px; */
+ }
+#mailphone{
+    margin-bottom: 52px; 
+}
+#button{
+    margin-top: 42px;
+    background: #3b5998;
+    color: white;
+}
+/* body */
+.mainface{
+    background: linear-gradient(white, grey);
+    padding: 0%;
+    margin: 0%;
+    float: left;
+}
+.mainface2{
+    
+}
+.main-left
+{
+    width: 50%;
+    /* background: red; */
+    float: left;
+    /* background: blue; */
+}
+#connect{
+    width: 100%;
+}
+.mainright{
+    width: 50%;
+    float: left;
+    /* background: red; */
+}
+.leftcontent{
+    margin-left: 10%;
+}
+#lastname{
+    margin-left: 15px;
+}
+.select1,.select2,.select3{
+    float: left;
+    
+}
+  
+.selections{
+    width: 100%;
+    float: left;
+}
+#select1,#select2,#select3{
+    width: 50px;
+    
+}
+#select2,#select3{
+    margin-left: 20px;
+}.input2{
+    margin-top: 15px;
+}
+.input3{
+    margin-top: 15px;
+}
+.selectbirth{
+    margin-top: 15px;
+}
